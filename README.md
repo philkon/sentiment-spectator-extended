@@ -1,4 +1,4 @@
-## Text Sentiment in the Age of Enlightenment
+## Text Sentiment in the Age of Enlightenment: An Analysis of Spectator Periodicals
 This repository contains the code for the analysis conducted in the paper *Text Sentiment in the Age of Enlightenment: An Analysis of Spectator Periodicals*
 
 ## The Data
